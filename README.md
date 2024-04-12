@@ -1,9 +1,9 @@
 # thecapitalofsunsets
 Требования к проекту:
-aiogram 2.4.0 or above
-sqllite3
-selenium
-chromedriver 114 or older
+aiogram 2.4.0 or above,
+sqllite3,
+selenium,
+chromedriver 114 or older,
 beautifulsoap
 
 
